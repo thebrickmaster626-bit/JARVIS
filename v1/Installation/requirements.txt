@@ -1,0 +1,11 @@
+pyaudio
+numpy
+faster-whisper
+pynput
+ollama
+keyring
+cryptography
+rich
+requests
+ddgs
+markdown

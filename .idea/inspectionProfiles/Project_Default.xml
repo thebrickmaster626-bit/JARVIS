@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="EditorConfigUnusedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="browser-harness" />
+          <option value="certifi" />
+          <option value="croniter" />
+          <option value="cryptography" />
+          <option value="httptools" />
+          <option value="markdown" />
+          <option value="nemo-relay" />
+          <option value="openai" />
+          <option value="packaging" />
+          <option value="pillow" />
+          <option value="pillow-heif" />
+          <option value="prompt-toolkit" />
+          <option value="pydantic" />
+          <option value="pyjwt" />
+          <option value="python-dotenv" />
+          <option value="requests" />
+          <option value="resvg-py" />
+          <option value="rich" />
+          <option value="ruamel-yaml" />
+          <option value="tomli-w" />
+          <option value="truststore" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="watchfiles" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
